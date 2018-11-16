@@ -10,7 +10,7 @@ Throughout the semester, CS 61A was my top priority. I logged my studying hours 
 2. The walkthroughs follow a philosophy of VIPRE -- Vigor & Precision. 
 
 3. I have taken motivation from William J Strunk, who, in his book Elements of Style, writes: 
-```Vigorous writing is concise. A sentence should contain no unnecessary words for the same reason that a machine should have   no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat   his subjects only in outline, but that every word tell.```
+"Vigorous writing is concise. A sentence should contain no unnecessary words for the same reason that a machine should have   no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat   his subjects only in outline, but that every word tell."
   Thus, I’ve kept my writing concise. 
 
 4. At [Vervago Skill Sharpeners](https://www.vervago.com/!), Clare Dolan and her team talk about PrecisionQ+A (i.e. Precision Questioning and Answering). See [this](https://www.vervago.com/skill-sharpeners/precision-questioning/!) blog, for example. Hence, these walkthroughs put forward precise questions and answers. 
