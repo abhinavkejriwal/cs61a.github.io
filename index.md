@@ -37,3 +37,4 @@ For some fun readings, see these links:
 | 5 | Summer 2017 | Midterm | [5](https://i.fluffy.cc/PlKn3LjGK6s7DFHpXvd1NQr68rsThCG5.pdf) |
 | 6 | Fall 2016 | Midterm 2 | [7a](https://i.fluffy.cc/qkD1GNXrN1tm9pBnvFLQHj0Rm2cDxKNB.pdf) |
 | 7 | Spring 2016 | Midterm 1 | [6a,b](https://i.fluffy.cc/cGkcjXJbw1LpS22d0lwCLVQ3DNVfg1PD.pdf) |
+
