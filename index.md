@@ -28,12 +28,12 @@ For some fun readings, see these links:
 
 ## Text Walkthroughs
 
-| S.no | Text Walkthroughs | Exam | Question |
-|:-------------|:------------------|:------|
-| 1 | Fall 2017 | Final | [4](./https://i.fluffy.cc/V1CkKhl1fsdV0flPRKhCHxGnp3SNRG84.pdf) |
-| 2 | Fall 2016 | Midterm 2 | [7a](./https://i.fluffy.cc/qkD1GNXrN1tm9pBnvFLQHj0Rm2cDxKNB.pdf) |
-
-
-
-
-
+| S.no | Resource | Exam | Question |
+|:----------------|:------------------|:------|
+| 1 | Spring 2018 | Midterm 1 | [3a,b](./https://i.fluffy.cc/fdJmR4zcStXqw9sVPbw4WgggB4Xp6xQm.pdf) |
+| 2 | Spring 2018 | Midterm 1 | [4a,b,c](./https://i.fluffy.cc/J1DQXNWzXnSkSx1SL3tWJwpxt1tLgHWn.pdf) |
+| 3 | Fall 2017 | Final | [4a, b, c](./https://i.fluffy.cc/V1CkKhl1fsdV0flPRKhCHxGnp3SNRG84.pdf) |
+| 4 | Summer 2017 | Final | [5](./https://i.fluffy.cc/BnWm612GTCnwWh3q5GTKhcVL2Gk4m6m8.pdf) |
+| 5 | Summer 2017 | Midterm | [5](./https://i.fluffy.cc/PlKn3LjGK6s7DFHpXvd1NQr68rsThCG5.pdf) |
+| 6 | Fall 2016 | Midterm 2 | [7a](./https://i.fluffy.cc/qkD1GNXrN1tm9pBnvFLQHj0Rm2cDxKNB.pdf) |
+| 7 | Spring 2016 | Midterm 1 | [6a,b](./https://i.fluffy.cc/cGkcjXJbw1LpS22d0lwCLVQ3DNVfg1PD.pdf) |
