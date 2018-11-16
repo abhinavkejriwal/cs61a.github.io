@@ -13,7 +13,7 @@ Throughout the semester, CS 61A was my top priority. I logged my studying hours 
 "Vigorous writing is concise. A sentence should contain no unnecessary words for the same reason that a machine should have   no unnecessary parts. This requires not that the writer make all his sentences short, or that he avoid all detail and treat   his subjects only in outline, but that every word tell."
   Thus, I’ve kept my writing concise. 
 
-4. At [Vervago Skill Sharpeners](https://www.vervago.com/!), Clare Dolan and her team talk about PrecisionQ+A (i.e. Precision Questioning and Answering). See [this](https://www.vervago.com/skill-sharpeners/precision-questioning/!) blog, for example. Hence, these walkthroughs put forward precise questions and answers. 
+4. At [Vervago Skill Sharpeners](https://www.vervago.com/), Clare Dolan and her team talk about PrecisionQ+A (i.e. Precision Questioning and Answering). See [this](https://www.vervago.com/skill-sharpeners/precision-questioning/) blog, for example. Hence, these walkthroughs put forward precise questions and answers. 
 
 5. These walkthroughs are color-coded, where necessary, for ease of understanding. 
 
@@ -22,6 +22,6 @@ Throughout the semester, CS 61A was my top priority. I logged my studying hours 
 7. For any feedback, questions, or advice, please also email me at ak1@berkeley.edu. 
 
 For some fun readings, see these links:
-- [Lessons from Prof Denero](!) 
-- [My Experiments with 61A](https://medium.com/@abhinavkejriwal/my-encounters-with-cs-61a-883abbf4cb78 !)
+- [Lessons from Prof Denero](https://medium.com/@abhinavkejriwal/life-1-0-1-lessons-from-a-computer-scientist-a007a05ffa11) 
+- [My Experiments with 61A](https://medium.com/@abhinavkejriwal/my-encounters-with-cs-61a-883abbf4cb78)
 
