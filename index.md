@@ -1,10 +1,10 @@
-## Welcome to the CS61A Resources Page. 
+# Welcome to CS61A Text Walkthroughs
 
 I took my first-ever CS Course, the _Structure and Interpretation of Computer Programs_ (CS 61A), in Spring 2018, and thoroughly enjoyed every aspect of it; be it its inherent difficulty, projects, labs, or homeworks, every part of the Course was rewarding for someone like me who’d just started out in the field of Computer Science. In the end, I reflected on my journey and realized I had immensely grown, thanks to Professor Denero, the Course Staff, and my friends. 
 
 Throughout the semester, CS 61A was my top priority. I logged my studying hours and averaged 6 hours a day, a sum that amounts to 500 hours over a semester. This relentless persistence motivated me to excel and master the 61A material, something that is foundational and fundamental to CS later. Thus, when I noticed that text walkthroughs -- a novel way of explaining intuition and process thoroughly -- were missing, I decided to build them. This way, not only would I be able to master the material, but I’d also help you, the reader, master it. Hence, this project. 
 
-# A few pointers about the walkthroughs:
+### A few pointers about the walkthroughs:
 1. They are a step-by-step guide on approaching exam-level code-writing questions. I haven’t written walkthroughs for What Would Python Display or Environment Diagrams, because they are self-explanatory.
 
 2. The walkthroughs follow a philosophy of VIPRE -- Vigor & Precision. 
