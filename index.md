@@ -22,6 +22,6 @@ Throughout the semester, CS 61A was my top priority. I logged my studying hours 
 7. For any feedback, questions, or advice, please also email me at ak1@berkeley.edu. 
 
 For some fun readings, see these links:
-[Lessons from Prof Denero](https://medium.com/@abhinavkejriwal/life-1-0-1-lessons-from-a-computer-scientist-a007a05ffa11!) 
-[My Experiments with 61A](https://medium.com/@abhinavkejriwal/my-encounters-with-cs-61a-883abbf4cb78!)
+- [Lessons from Prof Denero](https://medium.com/@abhinavkejriwal/life-1-0-1-lessons-from-a-computer-scientist-a007a05ffa11!) 
+- [My Experiments with 61A](https://medium.com/@abhinavkejriwal/my-encounters-with-cs-61a-883abbf4cb78!)
 
