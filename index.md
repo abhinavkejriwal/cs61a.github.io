@@ -26,17 +26,13 @@ For some fun readings, see these links:
 - [My Experiments with 61A](https://medium.com/@abhinavkejriwal/my-encounters-with-cs-61a-883abbf4cb78)
 
 
-###### Text Walkthroughs
+## Text Walkthroughs
 
 | S.no | Text Walkthroughs | Exam | Question |
 |:-------------|:------------------|:------|
-| 1 | Fall 2017 | Final | [4]https://i.fluffy.cc/V1CkKhl1fsdV0flPRKhCHxGnp3SNRG84.pdf |
+| 1 | Fall 2017 | Final | [4](./https://i.fluffy.cc/V1CkKhl1fsdV0flPRKhCHxGnp3SNRG84.pdf) |
+| 2 | Fall 2016 | Midterm 2 | [7a](./https://i.fluffy.cc/qkD1GNXrN1tm9pBnvFLQHj0Rm2cDxKNB.pdf) |
 
-## Text Walkthroughs
-S. No | Term | Exam | Question
-------|------|------|-----------
-1 | Fall 2017 | Final | [4](https://i.fluffy.cc/V1CkKhl1fsdV0flPRKhCHxGnp3SNRG84.pdf)
-2 | Fall 2016 | Midterm 2 | [7a](https://i.fluffy.cc/qkD1GNXrN1tm9pBnvFLQHj0Rm2cDxKNB.pdf)
 
 
 
