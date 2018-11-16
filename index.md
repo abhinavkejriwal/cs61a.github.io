@@ -25,6 +25,13 @@ For some fun readings, see these links:
 - [Lessons from Prof Denero](https://medium.com/@abhinavkejriwal/life-1-0-1-lessons-from-a-computer-scientist-a007a05ffa11) 
 - [My Experiments with 61A](https://medium.com/@abhinavkejriwal/my-encounters-with-cs-61a-883abbf4cb78)
 
+
+###### Text Walkthroughs
+
+| S.no | Text Walkthroughs | Exam | Question |
+|:-------------|:------------------|:------|
+| 1 | Fall 2017 | Final | [4]https://i.fluffy.cc/V1CkKhl1fsdV0flPRKhCHxGnp3SNRG84.pdf |
+
 ## Text Walkthroughs
 S. No | Term | Exam | Question
 ------|------|------|-----------
